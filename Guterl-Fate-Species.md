@@ -63,8 +63,28 @@ Jonathan Schell, *Fate of the Earth*, 1982. Invents idea of nuclear winter on mo
 Chapter 3: Climate Change
 ---
 
+55-6:  "The idea that climate behaves like a dynamical system addresses some of the key shortcomings of the conventional view of climate change--the view that looks at the planet as a whole, in terms of averages. Scheffer's dynamical systems approach, by contrast, would look at climite as a sum of many different parts, each with its own properties, all of them interdependent in ways that are hard to neglect."
+
+58:  "If we burn all the available coal and oil, the Venus effect is likely, and if we also burn other sources of fossil fuels, such as tar sands and tar shale, says Hansen, 'I believe the Venus syndrome is a dead certainty.'"
+
+59-60:  "Climate, for instance, is not one thing that covers the globe. It is a sum of weather patterns and ocean circulations and storms and droughts and clouds. It starts on an astronomical level, with the Earth's orbit varying as it goes around the sun. The orbit itself tends to vary slightly in several ways; sometimes it traces more of a circle around the sun, sometimes more of an ellipse. This affects the relative amount of radiation falling on the Earth throughout the year. Right now, Earth gets about 6 percent more energy from the sun in January than it does in July. But when the orbit is at its most elliptical, that differential climbs to 20 or 30 percent. This eccentricity varies in one-hundred-thousand-year cycles. The tilt of the Earth on its axis tends to vary, too, every forty-one thousand years or so, and affects the contrast between the seasons and the ease with which glaciers can form. Earth also wobbles on its axis, much as a top wobbles as it begins to slow down, which imposes another twenty-three-thousand-year cycle."
+
+60:  "A big factor is ice. Ice on the ground is white, which reflects sunlight and heat energy back into space. This 'positive feedback' reinforces whichever trend is already under way. More ice reflects more sunlight, which makes a cold Earth even colder. By the same token, when ice melts, it exposes the ground or water beneath it, which tends to absorb more energy and turn it into heat, thus reinforcing a warm planet's tendency to get even warmer."
+
+72:  "At such a rate of sea-level rise, it would become more and more difficult to protect coastlines. Low-lying areas would have to be abandoned. That includes cities such as New York, Los Angeles, San Francisco, London, Tokyo, and Hong Kong, not to mention the entire state of Florida and vast swaths of Indochina."
+
+72:  "Researchers in Germany and Holland recently spun out scenarios of what a five-meter rise in the next century would mean. The seas would inundate many low-lying areas. Much of Florida would disappear, large areas around the North Sea, including Holland, and major deltas in Asia. The Nile River would rise and flood the delta, putting parts of the city of Alexandria underwater. The waters of the Mekong River would rise and consume its delta. Many rivers that run through major cities would back up due to the rising sea and necessitate the building of barriers or the abandonment of low-lying areas."
+
+73:  "It would take time for the government to act because governments are inherently slow, even the small Dutch government."
+
 Chapter 4: Ecosystems
 ---
+
+Despite arguing that ecosystems are like complex networks, continues to use the language of hiearchy--"top of food chain," "bottom of food chain," etc.
+
+89:  "The way our food economy works now is diametrically opposed to the way the Sanak hunter-gatherers' food economy worked. When a source of food becomes scarce, such as caviar or truffles, we tend not to switch to another more plentiful food item. Instead, we bid up the price and redouble our efforts to produce or harvest more. Rather than make use of a variety of food types, we specialize on only a few, because that's what it takes to achieve economies of scale, drive down the price, and feed more people. Our modern economy engages in the opposite of prey switching."
+
+91:  "But the Green Revolution has also put us out on something of a limb. It has led to a vast global agricultural industry that is overdependent on only a few strains of four major crops--wheat, soy, rice, and corn."
 
 Chapter 5: Synthetic Biology
 ---
