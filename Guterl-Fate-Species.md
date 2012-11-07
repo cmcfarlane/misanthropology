@@ -89,8 +89,36 @@ Despite arguing that ecosystems are like complex networks, continues to use the 
 Chapter 5: Synthetic Biology
 ---
 
+96:  "an accurate genome is a kind of map for invading pathogens, i.e., biological weapons, synthetic diseases, and so forth. Potentially, the human genome project could provide a blueprint for a bioterrorist, a map of detailed targets to hit."
+
+99:  "It wasn't inconceivable that one day soon a terrorist would be able to download the genetic blueprint of a bad virus and concot one in a lab without much more fuss than baking a batch of brownies. Prehaps it would be possible to manipulate such a virus to be even deadlier than anything we've ever experienced. Or perhaps make something new from scratch."
+
+114:  "The technique allows scientists to essentially design any influenza virus they want--even those that have never appeared in nature."
+
+117:  "The scariest prospect of all is that some expert terrorist could devise a killer virus from scratch--the prospect that someone could first contemplate the desired effect, and then fashion a bug that produces that effect in the human population."
+
+122:  "The practitioners of synthetic biology--the science of creating living things to perform chosen functions--are not mad scientists bent on destroying the world. They are just smart people who are trying to solve problems--more engineer than Dr. Frankenstein."
+
+Unless we're the problem, of course.
+
 Chapter 6: Machines
 ---
 
+143:  "At the moment, it doesn't look as if machines are going to gain self-awareness and start making the decisions for us. But we are already greatly dependent on digital technology, and the world is growing more and more interconnected into a vast digital machine. Software runs this machine, and if something goes wrong with the software, the consequences can be devastating."
+
+146:  "Experts fully expect that Russia, China, and other present and former adversaries have *already* installed some kind of malware into our current power grid, for use at some later date, should it become necessary. (Likewise, you'd have to expect that the United States has returned the favour. It may even be irresponsible for a defense organization to have failed to do so.)"
+
+157:  "Nobody can predict the future. All we can do is avoid a gross failure of imagination."
+
+158:  "In the world we're now creating, you can think of robots as any artificial intelligence that connects somehow with the physical world."
+
+160:  "Scientists talk about giving robots the ability to make 'ethical decisions,' but it's not ethics in the sense we normally understand it--not so much decided between good and evil as being fair in a human sense."
+
 Ingenuity
 ---
+
+173:  "Where you stand on the research question, though, depends on whether you adhere to the technology religion or the nature religion."
+
+179:  "Current projections have the planet's population peaking toward the end of the twenty-first century at about 10.1 billion people, which means that by the end of the century there will be the equivalent of two more Chinas to feed."
+
+182:  "Two billion people--the population of the planet in the 1920s, when my father was born. Going from 7 billion to 2 billion is quite an adjustment. If this is the path, let us hope we move down it slowly and by choice, rather than quickly, by imposition."
