@@ -1,15 +1,15 @@
 Woodard, Ben. *Slime Dynamics: Generation, Mutation, and the Creep of Life*. Zer0 Books, 2012.
 ===
 
-Note: drawing upon pre-publication proofs. Text and pagination could differ from the published version.
+> Note: drawing upon pre-publication proofs. Text and pagination could differ from the published version.
 
 Introduction: Slime Ascent
 ---
 
 1:  "Despite the fact that humans gradually ascended from these clustered ponds of ooze, *slime*, as both a general name for a life-generative and semi-solid substance in the physical sense and the disgust of life, the ostensible grossness of organic being in a metaphysical sense, slime remains something to be left behind and forgotten."
 
-	slime-as-life
-	life-as-slime
+> slime-as-life
+> life-as-slime
 	
 2:  "abandonment of slime [...] the sense that our sliminess can simply be shed over time, evolution as perpetual betterment instead of local adaptation."
 
@@ -23,7 +23,7 @@ Introduction: Slime Ascent
 
 4:  "slime molds have attracted much attention since they function as both individual cells and multi-cellular organisms."
 
-	Discussing Steven Johnson's *Emergence*, which in turn discusses Toshiyuki Nakagaki's experiments with slime molds.
+> Discussing Steven Johnson's *Emergence*, which in turn discusses Toshiyuki Nakagaki's experiments with slime molds.
 	
 5:  "We must question then what kind of differences are 'real' or what is it about particular species that have real effects versus patterns which only group movements via categories. In other words, the identify of life must be decided, as well as that of un-life."
 
@@ -31,7 +31,7 @@ Introduction: Slime Ascent
 
 8:  "Correlationism is the assertion that there must be a reciprocal relation between thinking and what is thought, that 'there can be no cognizable reality independently of our relation to reality."
 
-	Discussing Meillassoux, citing Brassier, *Nihil Unbound*, 51.
+> Discussing Meillassoux, citing Brassier, *Nihil Unbound*, 51.
 	
 8:  "Traditionally vitalism does not seem too different from emergentism in that both suggest that there is something more to life, something that drives and/or affects life that is not purely reducible to the classifiable components of life itself."
 
@@ -39,7 +39,7 @@ Introduction: Slime Ascent
 
 11:  "Part of the work of a dark vitalism is the sickening realization of an inhospitable universe, stating that the production of life as an accidental event in time which is then contorted and bent by the banality of space, of our particular (and just as accidental) universal geometry and then further ravaged by accident, context, feedback and the degradation of wear and age."
 
-Three components of the "dark" of dark vitalism:
+> Three components of the "dark" of dark vitalism:
 
 11:  First, "because it is obscured both by nature [...] and by time"
 

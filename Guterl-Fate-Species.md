@@ -42,7 +42,7 @@ Chapter 2: Extinction
 
 33-4:  "The meteorite impact was huge. It would have been visible in the sky as a bright star days and perhaps weeks before impact. Had it happened tomorrow, NASA scientists might alert us to the event a few weeks ahead of time, calculate the trajectory of the object, and demand an audience with the president and go on talk shows and news programs in a campaign to get funding for an anti-asteroid program. Perhaps, if we were really lucky, the NASA folks would have gotten a bead on the meteor a few months ahead of time, giving us at least a prayer of launching a nuclear-tipped missile that might have been able to break up the meteor into smaller parts that would fall relevatively harmlessly in the atmosphere, or knock it off course enough to miss Earth. U.S. Congress mandated in 2005 that NASA find nine of every ten asteroids that could strike Earth and do some damage, so that we could perhaps have years of warning before a potential impact and prepare a plan for dealing with one. But with a measly $4 million budget, NASA's asteroid watch is likely to fall short."
 
-Jonathan Schell, *Fate of the Earth*, 1982. Invents idea of nuclear winter on model of Chicxulub meteor hypothesis?
+> Jonathan Schell, *Fate of the Earth*, 1982. Invents idea of nuclear winter on model of Chicxulub meteor hypothesis?
 
 36:  mass extinction events--65 MYA, 252 MYA, 600 MYA, 2,400 MYA
 
@@ -80,7 +80,7 @@ Chapter 3: Climate Change
 Chapter 4: Ecosystems
 ---
 
-Despite arguing that ecosystems are like complex networks, continues to use the language of hiearchy--"top of food chain," "bottom of food chain," etc.
+> Despite arguing that ecosystems are like complex networks, continues to use the language of hiearchy--"top of food chain," "bottom of food chain," etc.
 
 89:  "The way our food economy works now is diametrically opposed to the way the Sanak hunter-gatherers' food economy worked. When a source of food becomes scarce, such as caviar or truffles, we tend not to switch to another more plentiful food item. Instead, we bid up the price and redouble our efforts to produce or harvest more. Rather than make use of a variety of food types, we specialize on only a few, because that's what it takes to achieve economies of scale, drive down the price, and feed more people. Our modern economy engages in the opposite of prey switching."
 
@@ -99,7 +99,7 @@ Chapter 5: Synthetic Biology
 
 122:  "The practitioners of synthetic biology--the science of creating living things to perform chosen functions--are not mad scientists bent on destroying the world. They are just smart people who are trying to solve problems--more engineer than Dr. Frankenstein."
 
-Unless we're the problem, of course.
+> Unless we're the problem, of course.
 
 Chapter 6: Machines
 ---
